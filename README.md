@@ -1,1 +1,1 @@
-Mācos Ruby on Rails :)
+Mācos Ruby on Rails 
